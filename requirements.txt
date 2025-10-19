@@ -1,0 +1,7 @@
+google-genai
+mcp-flight-search
+mcp
+aiohttp
+google-generativeai 
+crewai 
+crewai-tools
